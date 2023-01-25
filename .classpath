@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/guice-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/jcommander-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/testing jars/testng-5.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/lift-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/okio-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/selenium-chrome-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jar_files (6)/hamcrest-all-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jar_files (6)/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jar_files (6)/webdriver-common-0.9.7089.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdullah/Desktop/jars/jar_files (6)/webdriver-support-0.9.7089.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
